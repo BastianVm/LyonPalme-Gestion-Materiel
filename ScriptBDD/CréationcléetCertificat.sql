@@ -1,0 +1,12 @@
+CREATE MASTER KEY ENCRYPTION BY PASSWORD = 'TonMotDePasseSuperSecurisé@123';
+ 
+CREATE CERTIFICATE CertificatMembre
+
+WITH SUBJECT = 'Chiffrement des membres';
+ 
+CREATE SYMMETRIC KEY CleMembre
+
+WITH ALGORITHM = AES_256
+
+ENCRYPTION BY CERTIFICATE CertificatMembre;
+ 

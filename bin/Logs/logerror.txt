@@ -1,0 +1,126 @@
+
+Log Entry : 16:23:32 dimanche 1 juin 2025
+  :
+  :DBInterface : l'utilisateur admin vient de se connecter
+-------------------------------
+
+Log Entry : 16:36:50 dimanche 1 juin 2025
+  :
+  :Connection : erreur de connexion au serveur
+-------------------------------
+
+Log Entry : 16:36:50 dimanche 1 juin 2025
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 16:37:30 dimanche 1 juin 2025
+  :
+  :DBInterface : identifiants de connexion invalide. Login :kadkd
+-------------------------------
+
+Log Entry : 16:37:47 dimanche 1 juin 2025
+  :
+  :DBInterface : l'utilisateur admin vient de se connecter
+-------------------------------
+
+Log Entry : 19:04:18 dimanche 1 juin 2025
+  :
+  :Connection : erreur de connexion au serveur
+-------------------------------
+
+Log Entry : 19:04:18 dimanche 1 juin 2025
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 19:12:15 dimanche 1 juin 2025
+  :
+  :DBInterface : l'utilisateur admin vient de se connecter
+-------------------------------
+
+Log Entry : 21:43:27 dimanche 1 juin 2025
+  :
+  :DBInterface : identifiants de connexion invalide. Login :admin
+-------------------------------
+
+Log Entry : 12:49:40 lundi 2 juin 2025
+  :
+  :DBInterface : l'utilisateur admin vient de se connecter
+-------------------------------
+
+Log Entry : 12:50:03 lundi 2 juin 2025
+  :
+  :Erreur ajout materielle : Impossible d'insérer la valeur NULL dans la colonne 'idMateriel', table 'kalifarouis.dbo.LP_StockMateriel'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+Impossible d'insérer la valeur NULL dans la colonne 'idMateriel', table 'kalifarouis.dbo.LP_Monopalme'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+L'instruction a été arrêtée.
+-------------------------------
+
+Log Entry : 12:55:28 lundi 2 juin 2025
+  :
+  :DBInterface : l'utilisateur admin vient de se connecter
+-------------------------------
+
+Log Entry : 13:46:44 lundi 2 juin 2025
+  :
+  :DBInterface : l'utilisateur jdupont vient de se connecter
+-------------------------------
+
+Log Entry : 13:49:08 lundi 2 juin 2025
+  :
+  :Erreur creation pret materiel : L'instruction INSERT est en conflit avec la contrainte FOREIGN KEY "FK__LP_PretMa__idMem__20E1DCB5". Le conflit s'est produit dans la base de données "kalifarouis", table "dbo.LP_Membre", column 'idMembre'.
+Impossible d'insérer la valeur NULL dans la colonne 'idPret', table 'kalifarouis.dbo.LP_Liaison'. Cette colonne n'accepte pas les valeurs NULL. Échec de INSERT.
+L'instruction a été arrêtée.
+L'instruction a été arrêtée.
+-------------------------------
+
+Log Entry : 14:52:58 lundi 2 juin 2025
+  :
+  :DBInterface : identifiants de connexion invalide. Login :admin
+-------------------------------
+
+Log Entry : 14:53:07 lundi 2 juin 2025
+  :
+  :DBInterface : identifiants de connexion invalide. Login :admin
+-------------------------------
+
+Log Entry : 14:56:42 lundi 2 juin 2025
+  :
+  :DBInterface : l'utilisateur jdupont vient de se connecter
+-------------------------------
+
+Log Entry : 14:11:54 mercredi 4 juin 2025
+  :
+  :DBInterface : identifiants de connexion invalide. Login :jdupont
+-------------------------------
+
+Log Entry : 14:12:48 mercredi 4 juin 2025
+  :
+  :DBInterface : l'utilisateur jdupont vient de se connecter
+-------------------------------
+
+Log Entry : 14:13:33 mercredi 4 juin 2025
+  :
+  :DBInterface : l'utilisateur jdupont vient de se connecter
+-------------------------------
+
+Log Entry : 14:15:42 mercredi 4 juin 2025
+  :
+  :DBInterface : l'utilisateur bviviermerle vient de se connecter
+-------------------------------
+
+Log Entry : 15:19:41 mercredi 4 juin 2025
+  :
+  :DBInterface : l'utilisateur lillyguevorkian vient de se connecter
+-------------------------------
+
+Log Entry : 15:29:40 mercredi 4 juin 2025
+  :
+  :DBInterface : l'utilisateur bviviermerle vient de se connecter
+-------------------------------
+
+Log Entry : 15:35:50 mercredi 4 juin 2025
+  :
+  :DBInterface : l'utilisateur bviviermerle vient de se connecter
+-------------------------------
