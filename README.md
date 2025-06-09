@@ -30,7 +30,7 @@ Pour exécuter ce projet, vous devez avoir Windows, Visual Studio, Microsoft SQL
 ## Installation
 Tout d'abord, vous devez cloner le projet :
 ```xml
-git clone https://github.com/Lilly-22/gestion_materiel_.git
+https://github.com/BastianVm/LyonPalme-Gestion-Materiel.git
 ```
 Ouvrez le projet dans votre environnement de développement intégré (IDE).
 Créez un nouveau fichier `App.config` dans le répertoire racine du projet.
